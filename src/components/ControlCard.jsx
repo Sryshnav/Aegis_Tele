@@ -19,7 +19,7 @@ const ControlCard = ({ immobilizerActive, onToggle }) => {
                         Engine Immobilizer
                     </div>
                     <div className="text-xs text-muted" style={{ marginTop: '4px' }}>
-                        Digital Output 1 Status
+                        
                     </div>
                 </div>
 
